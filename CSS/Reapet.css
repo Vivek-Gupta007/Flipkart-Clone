@@ -1,0 +1,81 @@
+header ul li {
+    list-style: none;
+    color: white;
+    font-size: 20px;
+}
+
+.box2 ul li {
+    list-style: none;
+}
+
+.flipkart {
+    font-size: xx-large;
+    justify-self: right;
+}
+
+.explore {
+    font-style: italic;
+    font-size: 15px;
+    justify-self: right;
+}
+
+.explore a {
+    color: yellow;
+}
+
+.box2 ul li {
+    color: black;
+    font-size: 18px;
+}
+
+li {
+    list-style: none;
+}
+
+.elecimages ul li {
+    font-size: 18px;
+}
+
+.rs {
+    color: rgb(18, 229, 18);
+}
+
+.electroins ul li {
+    font-size: 20px;
+}
+
+.electroins ul li a {
+    font-size: 14px;
+    color: grey;
+}
+
+.offers ul li {
+    font-size: 20px;
+}
+
+.offers ul li a {
+    font-size: 14px;
+    color: grey;
+}
+
+.offerspic ul li {
+    font-size: 18px;
+    text-align: center;
+}
+
+.dis {
+    color: rgb(18, 229, 18);
+}
+
+.footer ul li {
+    color: white;
+    font-size: 15px;
+}
+
+.elecimages ul li figcaption {
+    text-align: center;
+}
+
+.box2 ul li figcaption {
+    text-align: center
+}
